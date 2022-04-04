@@ -33,15 +33,16 @@
 
 ## 📷 Screenshots
 <h1>
-    <img width="270" alt="REGISTER" src="">
-    <img width="270" alt="TASKS" src="">
-    <img width="270" alt="EDIT" src="">
+    <img width="270" alt="REGISTER" src="https://user-images.githubusercontent.com/6785738/161546448-127eab27-189b-4cef-a94e-dc02f03d7d1e.png">
+    <img width="270" alt="TASKS" src="https://user-images.githubusercontent.com/6785738/161546519-14d16cc8-f7f0-441b-8db6-31ffae0818c4.png">
+    <img width="270" alt="EDIT" src="https://user-images.githubusercontent.com/6785738/161546570-617933d7-28b0-48ae-8872-5b6c0e4b9713.png">
 </h1>
 
 <div id="tecnologias-utilizadas"></div>
 
 
 ## 🚀 Tecnologias Utilizadas
+
 
 - [PHP 8.1](https://php.net/)
 - [Laravel 9.x](https://laravel.com/)
